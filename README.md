@@ -8,4 +8,4 @@ My name is **Ilia Domyshev** and I'm fullstack developer.
   
 - I've been working for [SteppeChange](https://steppechange.com/) (USA, Palo-Alto) for the last two years
   
-- I have bachelors degree in mathimatics and system programming
+- I have bachelors degree in mathematics and system programming
